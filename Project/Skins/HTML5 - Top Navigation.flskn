@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
   Version="2"
   SkinType="WebHelp2"
@@ -8,7 +8,10 @@
   EnableResponsiveOutput="true"
   RemoveImagesOnSave="true">
   <Stylesheet>
-    <Resources></Resources>
+    <Resources>
+      <Resource
+        Name="CompanyLogo.png">H4sIAAAAAAAEAAFlB5r4iVBORw0KGgoAAAANSUhEUgAAAFgAAAAYCAYAAAB+zTpYAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH3QQGDicyqhOSogAABvJJREFUaEPVmXlsVUUUxu/ctggNaBSJgBEUE1HAHaERQtyAKi4Yt8RgJEbRxCUSImo0eC3gH4pVA8ZAMGiCK+5iVFwaFKXgFjUQFRQFAddGFjFC3x1/3+PdMp2+d1/fs1U4yZdZzpkzM+fOnDkzNwjKIGvt2+APB2fkUwN/kyfXO59cqXXorAJjwB2gBphSdfxX8pVldtSddgc4basK6JFMtcMLC8iVWn0rDabnGs0gvQC8UqqSUuQvedZWHNOveVQQhiNNbE4wQXxIYEx3G5gNJrDr0LU62BEujE4321295Rq4lLF1huyZntIxnWXgSR/bqr6Z+FobxJODIBwQWHoyliTZNPZ4VYlMdTwjWpGpD7qHs6LBZqfqOmpF5br4z5IXnJ40v0Wd0XPUaGv6ZOJP6WA2+gcU6wO5nmCm3R4/ksjukwY2xmjCR4JLQB/KS4tNviy+iU+l3ZCkLWsW+5nFLN46Y+xl1sRnUXEd9Z95+q+atiJzrer2VReB+zPfMX6h0ygaXlF/V2OmFwa9zQSmIROaKdNPMb4x3wmsnRettM/gOPTBs4RfnkAyN+/py6l8BEx9uYPBVrAOfMaksu4GfgPJacrnqBbem045m0XuTxL3kOuJXFOOdxDpSaAv2AayBoOvfCqhV4dnN0doK+12pDWijfo5DBwK9ge/gs1gA22VL0hyFVGNaSwoACNabg+3YSw7JbTD7AgPaLWCGcS5cOvAiXmUKeS6j/qHwcY8/GJV+jgK7Y4hrQejQYXfCP5z1N3BpL/xeU75IfJXOuWbyauuFaFL0Y3krgbDfX5SRu5L8q+Bp+j3C1+umHGz8jXB+mBl0EwusWlX8l1bDEwn91Jxi6/cKWsFPADGgq9T5Aqx/oBxFlA4tV8hIeovBuMZzzgmuyRFLpVF+y4I6GOdlyq4m3ksifAJaGPgdrQPmhuDgRXhHpdrTLBKIVvWwAzmOhLfuNpyK8Eq0AfIZRwFaoFWX6nUgwYvAxn3L/Ap+ArE4DjgrjCNaz7jGoKR5aLKIe1E17j6wPpgms9voB/QQalLktzVavA8KIsqw/jMrP9MKA6yLqWSScgfafW6pBV6vr9NkZ1Ivbai2pRKMprwFpiE7u9dBei+kLJWXBLZyF9eCua7ciXkz/ZkJ9KnPnArol+5qRFgJ/xWNvJlC5U54HpbG9+d8DnYdjGNOSprMjrttLoSkh8Z6xtXTOoeI4laJEvP6DAZ7xs3p/tF0qc9lfLX5ZIOM5c0rzbEWDLgPZB6iLVpmKvQDY+P9ChF7YLdZIMZ+O2sq5GB/VvRk3T2Q4tw28xcqrTdyqE56E477T/wlP4bA/u+dJ52INDh0yEUNdjKwf3tUzjZc1oUGlzfX+E9SVkG9iOGd9J6zxloTZpMCk9+N402eczuacJFeNPgy78npEN6AdiIkWcB+d+yKVplu9hqu8iNfVH2jQnCcRxuLbtFBlas69KGdvRaTpgmtb4B/a4yfkW5ZRbCMtpeBH72dGgrTwFrMPJiMBbkvQ8U6vvGNXa/YLt9gZU73pFZbXaFp0fDzE9uOxnYvQiI93shxU59amCe0v6XFF6HszDySygdBO4E670OZNRx4A2wGiO3yx1NXWZ79Gyyr7Fy1TZH5l3TJRwRjTRtFpAMvGWPYDbXnjfbPQ7da1yk6G7ZIqIdw8bITWAm2nQ7Vdj2KvB3ytHUNWBkpQUpWmb7VlfF72PclnOLr/T45gpTG51o8p5LMrCuiy4pPixGA4oJ7G18jByDxeB8xqY56jbpGvoQynIdeYnr8iBbFS8njjs+EcCxTOO9YuK8oYawLD/JwLpMuCS/VZD4ylq9AwsK7AMMjLwJyJiXe8M9I9/wiXNHBSaWT08W305r7IS6YRXT88m7dTKw4k+XajGiAu9CNBWG77cLyf5v9e08uPxQrk2sHK1svjSw8RJW7oG5yeBywtF1wyqfaM/kdLPSI4euiToMElrCAK+n8CJfektusP0p3w6uceT25uxaxq1bI6d90MA8Wm1jeL2on+1N4EO3zJvuZF6A78e4e6IMGywk+hvEnwvXXnntwIFjK+Wb6GwiEtoCeiARaYUqZlwATyGZ3ELyPLiTvF6fTpbgXkw6rPXoLWSYh8InRRK66AwG/mGuQ0qPWVma/KHtxn+3+jZ3ZxPc1KYuaeSluAerFawr8EcMQGHHsyDZCom4e+XcRuUV4G/weiKwD6R6b9A8/OtzMnQZ/yLs4LuMfz21rIFFKNeveN1ubgA6afWVtWq1Yr8FCm8eRG4zcnpn1fZLVnwT+Xz0PpXu1VQfJo0Ugy91BD4vIKxXOFfuxzxyQ6nToqkFinp6guSRSv1oZ64FbPngVebVyv829wpi02TdPhArlcL4H0BPUvTDXxfSAAAAAElFTkSuQmCCcOI/d2UHAAA=</Resource>
+    </Resources>
     <Styles>
       <Medium
         Name="Tablet">
@@ -92,9 +95,17 @@
             Name="Float">right</Property>
         </Properties>
       </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('CompanyLogo.png')</Property>
+        </Properties>
+      </Style>
     </Styles>
     <Stylesheet></Stylesheet>
   </Stylesheet>
   <WebHelpOptions
     NavigationPanePosition="Right" />
+  <Strings />
 </CatapultSkin>
