@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="dhis2_ug_test_git_top_navigation_advanced_git"
+  ProjectFolder="C:\Users\cecilper\Documents\My Projects\dhis2_ug_test_git_top_navigation_advanced_git\"
+  AutoSync="false"
+  SourceFolders="file://vboxsvr/git/dhis2-docs/target/site/en/user"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2017-02-10T07:18:00.0293407-08:00"
+  ImportTopicsLocation="Content/import_ug/">
+  <Files>
+    <Url
+      Source="file://vboxsvr/git/dhis2-docs/target/site/en/user"
+      AbsoluteSource="file://vboxsvr/git/dhis2-docs/target/site/en/user" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/import_ug/user/html/about_data_entry_app.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/about_data_quality.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/about_event_capture_app.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/about_gis.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/about_tracked_entity_instance_dashboard.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/about_tracker_capture_app.html"
+      TimeStamp="2/10/2017 7:13:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/activate_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/add_relationship_to_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/authorities_to_sync_and_create_versioned_metadata.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/best_practices_at_central_instance.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/best_practices_at_local_instance.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/bi01.html"
+      TimeStamp="2/10/2017 7:13:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01s02.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01s03.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01s04.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01s05.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch01s06.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch02s01.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s01.html"
+      TimeStamp="2/10/2017 7:13:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s02.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s03.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s04.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s05.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s06.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s07.html"
+      TimeStamp="2/10/2017 7:13:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch03s08.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch04s01.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch04s02.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch04s07.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch04s08.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch05s01.html"
+      TimeStamp="2/10/2017 7:13:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch05s02.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch05s03.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch06s01.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch06s03.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch06s04.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch06s05.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch06s06.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch11s04.html"
+      TimeStamp="2/10/2017 7:13:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch12s07.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch12s11.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch13s05.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch13s07.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch13s17.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch18.html"
+      TimeStamp="2/10/2017 7:13:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch18s01.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch21.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s01.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s02.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s03.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s04.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s05.html"
+      TimeStamp="2/10/2017 7:13:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s06.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s07.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s08.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch23s09.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s01.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s02.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s03.html"
+      TimeStamp="2/10/2017 7:13:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s04.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s05.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s06.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s07.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s08.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s09.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s10.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch24s11.html"
+      TimeStamp="2/10/2017 7:13:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch27.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch30.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ch31.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/change_min_max_range_manually.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/concept.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/configure_central_instance.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/configure_local_instance.html"
+      TimeStamp="2/10/2017 7:13:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/configure_program.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/configure_tracked_entity_instance_dashboard.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/control_data_quality.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/create-scorecards-pivot-table.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/create_and_enroll_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/create_report_tracker_capture.html"
+      TimeStamp="2/10/2017 7:13:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/create_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dashboard.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dashboard_sharing.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dashboards_messages.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dashboards_setup.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_admin.html"
+      TimeStamp="2/10/2017 7:13:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_admin_maintenance.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approval.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_approving_accepting.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_approving_by_cogs.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_approving_data.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_authorities.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_configuration.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_approvals_data_visibility.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_dimensions.html"
+      TimeStamp="2/10/2017 7:13:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_entry_app.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_entry_app_see_also.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_entry_multiple_organisation_units.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_download_chart_data.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_embedding.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_intro.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_save_chart.html"
+      TimeStamp="2/10/2017 7:13:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_select_dim_items.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/data_vis_series_category_filter.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_cacheStatistics.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_dataIntegrity.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_dataStatistics.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_dataSync.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_duplicateDataElimination.html"
+      TimeStamp="2/10/2017 7:13:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_local_management.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_lockException.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_metaDataSync.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_minMaxValueGeneration.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_resourceTables.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_scheduling.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dataAdmin_sqlView.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/database_design.html"
+      TimeStamp="2/10/2017 7:13:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/datavis_change_display.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/datavis_chart_types.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/datavis_create_chart.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/deactivate_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/delete_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dhis2_glossary.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dhis2_tutorials.html"
+      TimeStamp="2/10/2017 7:13:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dhis2_user_manual_en.html"
+      TimeStamp="2/10/2017 7:14:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/dhis2_user_manual_en_full.html"
+      TimeStamp="2/10/2017 7:15:39 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/display_data_value_audit_trail.html"
+      TimeStamp="2/10/2017 7:15:39 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/display_data_value_history.html"
+      TimeStamp="2/10/2017 7:15:39 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/edit_data_value_in_completed_form.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/edit_multiple_object_groups.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/edit_tracked_entity_instance_profile.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/enroll_existing_tracked_entity_instance_in_program.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/enter_data_in_data_entry_form.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/enter_data_offline.html"
+      TimeStamp="2/10/2017 7:15:40 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/enter_event_data_for_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_app.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_delete_event.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_download_event_list.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_edit_event.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_edit_event_grid.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_modify_event_list_layout.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_print_event_list.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_register_event.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_share_event_edit_mode.html"
+      TimeStamp="2/10/2017 7:15:41 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_capture_view_event_audit_history.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_reports_app.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/event_visualizer_app.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/export.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/follow_up_analysis.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/getting_started.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/gis_creating.html"
+      TimeStamp="2/10/2017 7:15:42 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/gis_creating_context.html"
+      TimeStamp="2/10/2017 7:15:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/gis_creating_setup.html"
+      TimeStamp="2/10/2017 7:15:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/import.html"
+      TimeStamp="2/10/2017 7:15:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/ix01.html"
+      TimeStamp="2/10/2017 7:15:43 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/maintenance_app.html"
+      TimeStamp="2/10/2017 7:15:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_attribute.html"
+      TimeStamp="2/10/2017 7:15:44 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_category.html"
+      TimeStamp="2/10/2017 7:15:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_constant.html"
+      TimeStamp="2/10/2017 7:15:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_custom_registration_forms.html"
+      TimeStamp="2/10/2017 7:15:45 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_data_element.html"
+      TimeStamp="2/10/2017 7:15:46 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_data_set.html"
+      TimeStamp="2/10/2017 7:15:47 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_external_maplayer.html"
+      TimeStamp="2/10/2017 7:15:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_indicator.html"
+      TimeStamp="2/10/2017 7:15:48 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_legend.html"
+      TimeStamp="2/10/2017 7:15:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_option_set.html"
+      TimeStamp="2/10/2017 7:15:49 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_organisation_unit.html"
+      TimeStamp="2/10/2017 7:15:50 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_predictor.html"
+      TimeStamp="2/10/2017 7:15:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program.html"
+      TimeStamp="2/10/2017 7:15:51 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_indicator.html"
+      TimeStamp="2/10/2017 7:15:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_metadata.html"
+      TimeStamp="2/10/2017 7:15:52 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_notification.html"
+      TimeStamp="2/10/2017 7:15:53 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_rule.html"
+      TimeStamp="2/10/2017 7:15:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_stage.html"
+      TimeStamp="2/10/2017 7:15:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_program_validation_rule.html"
+      TimeStamp="2/10/2017 7:15:54 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_push_report.html"
+      TimeStamp="2/10/2017 7:15:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_tracked_entity_instance_enrollment.html"
+      TimeStamp="2/10/2017 7:15:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_user_role_group.html"
+      TimeStamp="2/10/2017 7:15:55 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/manage_validation_rule.html"
+      TimeStamp="2/10/2017 7:15:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mark_data_for_followup_in_data_entry_form.html"
+      TimeStamp="2/10/2017 7:15:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mark_tracked_entity_instance_for_follow_up.html"
+      TimeStamp="2/10/2017 7:15:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/metadata_sync.html"
+      TimeStamp="2/10/2017 7:15:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/metadata_sync_task.html"
+      TimeStamp="2/10/2017 7:15:56 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mgt_user.html"
+      TimeStamp="2/10/2017 7:15:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mgt_usergroup.html"
+      TimeStamp="2/10/2017 7:15:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mgt_userrole.html"
+      TimeStamp="2/10/2017 7:15:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/min_max_analysis.html"
+      TimeStamp="2/10/2017 7:15:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mobile_intro.html"
+      TimeStamp="2/10/2017 7:15:57 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mobile_j2me_gprs_3g.html"
+      TimeStamp="2/10/2017 7:15:58 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mobile_sms_command.html"
+      TimeStamp="2/10/2017 7:15:58 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mobile_sms_service.html"
+      TimeStamp="2/10/2017 7:15:58 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mobile_web_based.html"
+      TimeStamp="2/10/2017 7:15:59 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mod1_1.html"
+      TimeStamp="2/10/2017 7:15:59 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mod2_1.html"
+      TimeStamp="2/10/2017 7:15:59 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mod2_2.html"
+      TimeStamp="2/10/2017 7:15:59 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/mod2_4.html"
+      TimeStamp="2/10/2017 7:15:59 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/open_existing_tracked_entity_instance_dashboard.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/open_id.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_about.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_change_display.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_create.html"
+      TimeStamp="2/10/2017 7:16:00 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_download_data.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_embed.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_integration.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pivot_tips.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/pr01.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/program_about.html"
+      TimeStamp="2/10/2017 7:16:01 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/reporting_creating_tables.html"
+      TimeStamp="2/10/2017 7:16:02 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/reporting_data_sources.html"
+      TimeStamp="2/10/2017 7:16:02 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/reporting_standard_reports.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/reporting_table_outcomes.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/send_message_to_tracked_entity_instance.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/setting_up_reporting.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/settings.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/share_tracked_entity_instance_dashboard.html"
+      TimeStamp="2/10/2017 7:16:03 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/sharing.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/standard_deviation_analysis.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/steps_to_sync_metadata.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/system_settings.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/tracker_capture_app.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/usage_analytics_create_chart.html"
+      TimeStamp="2/10/2017 7:16:04 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/user_authorities.html"
+      TimeStamp="2/10/2017 7:16:05 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_create_map.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_embed.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_event_layer.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_external_map_layers.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_facility_layer.html"
+      TimeStamp="2/10/2017 7:16:06 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_favorites.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_gee.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_image_export.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_integration.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_latitude_longitude.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_measure_distance.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_search.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_gis_thematic_layer.html"
+      TimeStamp="2/10/2017 7:16:07 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_dataset_reports.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_intro.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_orgunit_distribution_reports.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_reporting_rate_summary.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_resources.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_reporting_standard_reports.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/using_usage_analytics.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/validation_rule_analysis.html"
+      TimeStamp="2/10/2017 7:16:08 AM" />
+    <Url
+      Source="../../Content/import_ug/user/html/workflow_tracker_capture.html"
+      TimeStamp="2/10/2017 7:16:09 AM" />
+    <Url
+      Source="../TOCs/user.fltoc"
+      TimeStamp="2/10/2017 7:17:53 AM" />
+  </GeneratedFiles>
+</HtmlImport>

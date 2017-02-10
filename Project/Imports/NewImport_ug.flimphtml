@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport KeepSourceLinks="false" ImportResources="false" SourceFolders="" ImportResourcesLocation="RelativeToDocument" ImportTopics="content" ImportLinkedHtmlFiles="false">
+    <Files>
+        <Url Source="../../../../../Desktop/dhis2_user_manual_en_full.htm" AbsoluteSource="file:///C:/Users/cecilper/Desktop/dhis2_user_manual_en_full.htm" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles />
+</HtmlImport>
